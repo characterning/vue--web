@@ -1,0 +1,197 @@
+{
+  "currentTime": 1504085050395,
+  "apiErrorMessage": "",
+  "data": [
+    {
+      "channel": {
+        "id": 41,
+        "name": "精选",
+        "image": "RDaIH2ABWRpi0YA",
+        "channelType": "SELECTED",
+        "displayStyle": "LIST",
+        "hotContentRate": 0.3,
+        "newContentRate": 0.7,
+        "createTime": 0,
+        "couldSelect": false,
+        "couldDisplay": true,
+        "displayOrder": 1501569107242,
+        "title": "盖饭娱乐_gif图_gif动图_搞笑gif_gif内容供应商",
+        "keywords": "gif图,gif动图,gif动态图片,搞笑动态图片,搞笑gif动态图片,搞笑gif,gif素材,盖饭娱乐",
+        "description": "gif图原创内容供应商盖饭娱乐-为用户提供碎片化、娱乐化gif动态图片素材库;gif内容涵盖,原创gif动图、娱乐gif动图、搞笑gif动图、明星gif动图等泛娱乐动图内容生产。"
+      },
+      "collected": false
+    },
+    {
+      "channel": {
+        "id": 23,
+        "name": "娱乐",
+        "image": "hj8TdtwBVycTOH0",
+        "channelType": "DEFAULT",
+        "displayStyle": "THUMBNAIL",
+        "hotContentRate": 0.7,
+        "newContentRate": 0.3,
+        "createTime": 1473313982066,
+        "couldSelect": true,
+        "couldDisplay": true,
+        "displayOrder": 1501569107241,
+        "title": "娱乐gif_明星gif图_综艺动态图_盖饭娱乐",
+        "keywords": "娱乐gif图,明星gif图,明星动态图,综艺动态图",
+        "description": "盖饭娱乐-娱乐gif频道每日提供最新、最有趣的明星动态GIF图,找明星gif图、明星动态图、综艺节目动态图等选择盖饭娱乐。"
+      },
+      "collected": false
+    },
+    {
+      "channel": {
+        "id": 73,
+        "name": "极限挑战3",
+        "image": "uACPnU8BXRXGerg",
+        "channelType": "DEFAULT",
+        "displayStyle": "THUMBNAIL",
+        "hotContentRate": 0.3,
+        "newContentRate": 0.7,
+        "createTime": 0,
+        "couldSelect": true,
+        "couldDisplay": true,
+        "displayOrder": 1501569107240,
+        "title": "极限挑战3",
+        "keywords": "极限挑战,黄渤,孙红雷,黄磊,罗志祥,张艺兴,王迅",
+        "description": "《极限挑战》是东方卫视推出的大型励志体验真人秀节目，固定成员有黄渤、孙红雷、黄磊、罗志祥、王迅、张艺兴。"
+      },
+      "collected": false
+    },
+    {
+      "channel": {
+        "id": 31,
+        "name": "影视",
+        "image": "0M3VgJMBWFFyc58",
+        "channelType": "DEFAULT",
+        "displayStyle": "THUMBNAIL",
+        "hotContentRate": 0.3,
+        "newContentRate": 0.7,
+        "createTime": 0,
+        "couldSelect": true,
+        "couldDisplay": true,
+        "displayOrder": 1501569107239,
+        "title": "影视gif_电影gif_电影片段_盖饭娱乐",
+        "keywords": "影视剧照片,电影gif,电视剧gif,电影片段",
+        "description": "盖饭娱乐-影视gif频道每日提供最新、最有趣的影视剧片段,找电影片段、电视剧精彩镜头、影视剧照片等选择盖饭娱乐。"
+      },
+      "collected": false
+    },
+    {
+      "channel": {
+        "id": 11,
+        "name": "动漫",
+        "image": "c8vPgygBVycSpcc",
+        "channelType": "DEFAULT",
+        "displayStyle": "THUMBNAIL",
+        "hotContentRate": 0.7,
+        "newContentRate": 0.3,
+        "createTime": 1472549006905,
+        "couldSelect": true,
+        "couldDisplay": true,
+        "displayOrder": 1501569107238,
+        "title": "动漫gif_动漫图片_动漫动态图_盖饭娱乐",
+        "keywords": "搞笑漫画,动漫图片,动漫图,动漫动态图,动漫gif",
+        "description": "盖饭娱乐-影视gif频道,提供动漫图片、动漫gif、动漫动态图、新番图片、同人、CG、COSPLAY、动漫周等动漫相关热门图片。"
+      },
+      "collected": false
+    },
+    {
+      "channel": {
+        "id": 27,
+        "name": "奇趣",
+        "image": "9FX5vUwBV2TIr9k",
+        "channelType": "DEFAULT",
+        "displayStyle": "THUMBNAIL",
+        "hotContentRate": 0.3,
+        "newContentRate": 0.7,
+        "createTime": 1474864665704,
+        "couldSelect": true,
+        "couldDisplay": true,
+        "displayOrder": 1501569107237,
+        "title": "搞笑图片_搞笑动态图片_内涵动图_盖饭娱乐",
+        "keywords": "搞笑图片,搞笑动态图片,gif搞笑,搞笑动图,内涵动图",
+        "description": "盖饭娱乐-搞笑gif频道,与大家一起分享最新搞笑图片、搞笑动态图片、搞笑动图,内涵动图,为您带来轻松有趣的搞笑娱乐动图。"
+      },
+      "collected": false
+    },
+    {
+      "channel": {
+        "id": 37,
+        "name": "专栏",
+        "image": "BL2jL4sBWI9R5gU",
+        "channelType": "DEFAULT",
+        "displayStyle": "THUMBNAIL",
+        "hotContentRate": 0.7,
+        "newContentRate": 0.3,
+        "createTime": 0,
+        "couldSelect": true,
+        "couldDisplay": true,
+        "displayOrder": 1501569107236,
+        "title": "搞笑专栏_搞笑段子_笑话图片_盖饭娱乐",
+        "keywords": "笑话段子,搞笑段子,幽默笑话,笑话图片,神吐槽",
+        "description": "盖饭娱乐-搞笑专栏,随时随地记录生活中的趣人趣事包括,笑话段子,搞笑段子,幽默笑话,笑话图片,神吐槽为您带来轻松有趣的搞笑娱乐内容。"
+      },
+      "collected": false
+    },
+    {
+      "channel": {
+        "id": 19,
+        "name": "自拍",
+        "image": "ceVaGV8BVycSR80",
+        "channelType": "DEFAULT",
+        "displayStyle": "THUMBNAIL",
+        "hotContentRate": 0.7,
+        "newContentRate": 0.3,
+        "createTime": 1472812049144,
+        "couldSelect": true,
+        "couldDisplay": true,
+        "displayOrder": 1501569107235,
+        "title": "自拍gif_美女动态图片_美女gif_盖饭娱乐",
+        "keywords": "福利gif,美女gif,美女动图,美女动态图, 美女动态图片,内涵图片",
+        "description": "盖饭娱乐-自拍频道,更新最优质的福利gif、美女gif、美女动图、美女动态图、 美女动态图片、内涵图片选择盖饭娱乐自拍频道。"
+      },
+      "collected": false
+    },
+    {
+      "channel": {
+        "id": 15,
+        "name": "手绘",
+        "image": "L3sVhxsBVycSe0E",
+        "channelType": "DEFAULT",
+        "displayStyle": "THUMBNAIL",
+        "hotContentRate": 0.7,
+        "newContentRate": 0.3,
+        "createTime": 1472549042490,
+        "couldSelect": true,
+        "couldDisplay": true,
+        "displayOrder": 1501569107234,
+        "title": "手绘图片_漫画图片_搞笑漫画_盖饭娱乐",
+        "keywords": "漫画图片,搞笑漫画,手绘漫画,手绘图片,手绘动漫,手绘美女",
+        "description": "盖饭娱乐-手绘图片,以风趣、幽默、搞笑的手绘图片传递轻松,娱乐心情内容包含漫画图片,搞笑漫画,手绘漫画,手绘图片,手绘动漫,手绘美女等。"
+      },
+      "collected": false
+    },
+    {
+      "channel": {
+        "id": 29,
+        "name": "福利",
+        "image": "YJJjTa0BWAl4sQg",
+        "channelType": "DEFAULT",
+        "displayStyle": "THUMBNAIL",
+        "hotContentRate": 0.7,
+        "newContentRate": 0.3,
+        "createTime": 0,
+        "couldSelect": true,
+        "couldDisplay": true,
+        "displayOrder": 1501569107233,
+        "title": "福利gif_福利动态图片_内涵gif_盖饭娱乐",
+        "keywords": "福利gif,内涵gif,福利动态图片,福利动图,宅男福利,美女gif",
+        "description": "盖饭娱乐-福利频道,更新最优质的福利gif、内涵gif、福利动态图片、福利动图、宅男福利、美女gif选择盖饭娱乐福利频道。"
+      },
+      "collected": false
+    }
+  ],
+  "code": 1
+}
